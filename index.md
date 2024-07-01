@@ -13,3 +13,8 @@ To **clone** this repository, use:
 ```
 $ git clone git@github.com/am-derrick/skills-communicate-using-markdown
 ```
+
+New Tasks
+- [x] Learn deeply about Markdown syntax.
+- [ ] Go deep into collaboration using GitHub.
+- [ ] Adapt to best practices and techniques e.g. pull requests and useful commits.
